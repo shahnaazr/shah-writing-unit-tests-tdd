@@ -1,22 +1,22 @@
 {
-  "name": "writing-unit-tests-tdd",
+  "name": "shah-writing-unit-tests-tdd",
   "version": "1.0.0",
-  "description": "",
-  "main": "demo.js",
+  "description": "writing unit tests using tdd",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://@github.com:shahnaazr/shah-writing-unit-tests-tdd.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://@github.com:shahnaazr/shah-writing-unit-tests-tdd/issues"
   },
-  "homepage": "",
+  "homepage": "https://@github.com:shahnaazr/shah-writing-unit-tests-tdd#readme",
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
